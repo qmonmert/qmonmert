@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/quentin-monmert-65038438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin-monmert-65038438" height="30" width="40" /></a>
 <a href="https://fb.com/quentin.monmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quentin.monmert" height="30" width="40" /></a>
 <a href="https://instagram.com/quentinmonmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quentinmonmert" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucaueg0v_ez9aw8nd_gmxmfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucaueg0v_ez9aw8nd_gmxmfa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAUeG0v_Ez9aw8nD_GMXMfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucaueg0v_ez9aw8nd_gmxmfa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
